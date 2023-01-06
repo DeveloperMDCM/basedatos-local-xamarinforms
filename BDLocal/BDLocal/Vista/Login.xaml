@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BDLocal.Vista.Login">
+    <ContentPage.Content>
+        <Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Image Grid.Row="0" Source="login.png" WidthRequest="150" HeightRequest="150" Margin="0,50,0,0"/>
+
+                <StackLayout Grid.Row="1" Padding="30,20">
+                    <Label Text="Usuario" TextColor="Black"/>
+                    <Entry Placeholder="****" PlaceholderColor="Black"/>
+                    
+                    <Label Text="Contraseña"/>
+                    <Entry Placeholder="****" PlaceholderColor="Black" IsPassword="True"/>
+                    <Button Text="Iniciar sesion"
+                                BackgroundColor= "Blue"
+                                BorderRadius="30"
+                                TextColor="White" 
+                                Clicked="PaginaPrincipal"/>
+                </StackLayout>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

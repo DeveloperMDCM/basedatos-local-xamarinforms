@@ -1,0 +1,35 @@
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\bin\Debug\netstandard2.0\BDLocal.deps.json
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\bin\Debug\netstandard2.0\BDLocal.dll
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.csprojAssemblyReference.cache
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.AssemblyInfoInputs.cache
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.AssemblyInfo.cs
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\Vista\MainPage.xaml.g.cs
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\Vista\Todos.xaml.g.cs
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.dll
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\ref\BDLocal.dll
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.pdb
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\bin\Debug\netstandard2.0\ref\BDLocal.dll
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\bin\Debug\netstandard2.0\BDLocal.pdb
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\Vista\Login.xaml.g.cs
+C:\Users\jesus\source\repos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\Vista\DetalleCliente.xaml.g.cs
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\bin\Debug\netstandard2.0\BDLocal.deps.json
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\bin\Debug\netstandard2.0\BDLocal.dll
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\bin\Debug\netstandard2.0\ref\BDLocal.dll
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\bin\Debug\netstandard2.0\BDLocal.pdb
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.csprojAssemblyReference.cache
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\Vista\DetalleCliente.xaml.g.cs
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\Vista\Login.xaml.g.cs
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\Vista\MainPage.xaml.g.cs
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\Vista\Todos.xaml.g.cs
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.AssemblyInfoInputs.cache
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.AssemblyInfo.cs
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.dll
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\ref\BDLocal.dll
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.pdb
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\listComidas.xaml.g.cs
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\BDLocal.csproj.CoreCompileInputs.cache
+D:\Universidad\U\Visual studio proyectos\BDLocal\BDLocal\BDLocal\obj\Debug\netstandard2.0\XamlC.stamp
